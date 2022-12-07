@@ -1,0 +1,8 @@
+bin
+Makefile
+project.pros
+firmware
+common.mk
+compile_commands.json
+.d*
+include/*/
